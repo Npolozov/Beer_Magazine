@@ -5,6 +5,7 @@
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.12.3",
     "next-svgr": "^0.0.2",
+    "react-hot-loader": "^4.13.1",
     "styled-components": "^5.3.10"
   }
 }

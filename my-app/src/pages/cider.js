@@ -1,4 +1,4 @@
-import Heading from "../components/Heading";
+import Heading from "../components/Heading/Heading";
 import style from "../styles/Home.module.css";
 
 const Cider = () => (
