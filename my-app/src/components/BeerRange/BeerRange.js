@@ -6,10 +6,10 @@ const BeerRange = () => {
   console.log(beer);
   return (
     <ul>
-      {beer.map(({ id, title, imgage }) => (
+      {beer.map(({ id, title, image }) => (
         <li key={id}>
           <p>{title}</p>
-          <img src={imgage} width={50} height={50} alt={title} />
+          <Image src={image} width={50} height={50} alt={title} />
         </li>
       ))}
     </ul>
